@@ -1,5 +1,6 @@
 import React from "react";
 import Square from "./Square.js";
+import Square from "Square.js";
 
 function GameGrid(props) {
    const moves = props.moves;

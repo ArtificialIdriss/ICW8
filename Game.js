@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import GameGrid from "./GameGrid.js";
+import GameGrid from "GameGrid.js";
 
 function Game() {
    // Step 3: Initialize state
